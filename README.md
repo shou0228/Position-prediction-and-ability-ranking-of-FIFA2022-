@@ -1,5 +1,5 @@
 # Position prediction and ability ranking of FIFA2022 
-# using PCA and Kmeans
+# PCA and Kmeans
 
 The datasets provided include the players data for the Career Mode from FIFA 15 to FIFA 22 ("players_22.csv"). The data allows multiple comparisons for the same players across the last 8 version of the videogame.
 
