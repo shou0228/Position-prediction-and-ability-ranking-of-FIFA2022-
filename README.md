@@ -1,1 +1,1 @@
-# Position-prediction-and-ability-ranking-of-FIFA2022-PCA＿Kmeans
+# Position prediction and ability ranking of FIFA2022 BY PCA and Kmeans
